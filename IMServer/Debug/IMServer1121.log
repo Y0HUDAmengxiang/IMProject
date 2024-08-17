@@ -1,0 +1,43 @@
+﻿  CKernel.cpp
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(89,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(103,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(117,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(142,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(193,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(228,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(235,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(237,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(285,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(323,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(377,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(383,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TcpNetClientMediator.cpp
+  TcpNetServerMediator.cpp
+  UdpNetMediator.cpp
+  TcpNetClient.cpp
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetClient.cpp(54,42): warning C4305: “参数”: 从“int”到“u_short”截断
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetClient.cpp(54,30): warning C4309: “参数”: 截断常量值
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetClient.cpp(52,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetClient.cpp(150,12): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  TcpNetServer.cpp
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetServer.cpp(53,42): warning C4305: “参数”: 从“int”到“u_short”截断
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetServer.cpp(53,30): warning C4309: “参数”: 截断常量值
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetServer.cpp(104,28): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\TcpNetServer.cpp(205,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  UdpNet.cpp
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\UdpNet.cpp(147,12): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  main.cpp
+  CMySql.cpp
+  正在生成代码...
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\INet\UdpNet.cpp(90): warning C4715: “UdpNet::InitNet”: 不是所有的控件路径都返回值
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\CKernel.cpp(30): warning C4715: “CKernel::startServer”: 不是所有的控件路径都返回值
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，函数 "public: bool __thiscall CMySql::ConnectMySql(char *,char *,char *,char *,short)" (?ConnectMySql@CMySql@@QAE_NPAD000F@Z) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_set_character_set@8，函数 "public: __thiscall CMySql::CMySql(void)" (??0CMySql@@QAE@XZ) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，函数 "public: __thiscall CMySql::CMySql(void)" (??0CMySql@@QAE@XZ) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，函数 "public: bool __thiscall CMySql::ConnectMySql(char *,char *,char *,char *,short)" (?ConnectMySql@CMySql@@QAE_NPAD000F@Z) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_query@8，函数 "public: bool __thiscall CMySql::GetTables(char *,class std::list<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)" (?GetTables@CMySql@@QAE_NPADAAV?$list@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，函数 "public: bool __thiscall CMySql::GetTables(char *,class std::list<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)" (?GetTables@CMySql@@QAE_NPADAAV?$list@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_row@4，函数 "public: bool __thiscall CMySql::GetTables(char *,class std::list<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)" (?GetTables@CMySql@@QAE_NPADAAV?$list@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) 中引用了该符号
+CMySql.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，函数 "public: void __thiscall CMySql::DisConnect(void)" (?DisConnect@CMySql@@QAEXXZ) 中引用了该符号
+C:\Program Files\MySQL\MySQL Server 5.7\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\Colin\3.The_Thired_Stage\IM大项目data：8月1日\IMServer1121\Debug\IMServer.exe : fatal error LNK1120: 8 个无法解析的外部命令
